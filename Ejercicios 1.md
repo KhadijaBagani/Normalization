@@ -9,6 +9,7 @@ FROM INFORMATION_SCHEMA.TABLES
 ```
 
 Normaliza las siguientes tablas (no sobrescribir originales, usar tablas temporales)
+
 2. **ProductReview** en 1NF
 3. **ProductModel** en 1NF (Salvo el atributo **CatalogDescription**)
 4. **Sales** en 2NF
