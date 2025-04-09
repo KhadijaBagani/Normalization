@@ -14,7 +14,7 @@ Normaliza las siguientes tablas (no sobrescribir originales, usar tablas tempora
 3. **ProductModel** en 1NF (Salvo el atributo **CatalogDescription**)
 4. **Sales** en 2NF
 5. **Custom.FidelityCard** en 2NF
-6. **PurchaseOrderDetail** en 2NF e introduce los primeros 5 valores
+6. ~**PurchaseOrderDetail** en 2NF e introduce los primeros 5 valores~ (no lo hagais)
 7. **EmailAddress** en 3NF
 8. **BusinessEntityContact** en 3.5NF
 9. **Document** en 3NF
