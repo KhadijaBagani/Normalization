@@ -1,7 +1,8 @@
 
 # ANTES DE NADA
 
-==Descargad e instalad la base de datos **StackOverflowMini**.== Todo el ejercicio se va a basar en ella.
+> [!WARNING]
+> Descargad e instalad la base de datos **StackOverflowMini**. Todo el ejercicio se va a basar en ella.
 
 # Ejercicio 1 *(2,5 Puntos)*
 
