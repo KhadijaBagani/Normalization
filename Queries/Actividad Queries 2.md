@@ -1,4 +1,8 @@
 
+# ANTES DE NADA
+
+==Descargad e instalad la base de datos **StackOverflowMini**.== Todo el ejercicio se va a basar en ella.
+
 # Ejercicio 1 *(2,5 Puntos)*
 
 A veces los comentarios de Github se refieren a otros usuarios mediante el patrón **@usuario**. Nos gustaría tener una forma mejor de trabajar con estos comentarios.
