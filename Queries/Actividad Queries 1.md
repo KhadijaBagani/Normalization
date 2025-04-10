@@ -1,7 +1,7 @@
 
 # Ejercicio 1: Coste de los joins
 
-Antes de nada, ejecuta el script **Custom Tables Joins** en tu BBDD
+Antes de nada, ejecuta el script **[Custom Tables Joins](./Custom%20Tables%20Joins.sql)** en tu BBDD
 
 1. Crea un join que empareje cada persona en **Custom.ModifiedPerson** con las otras personas de esa tabla que comparen su nombre (salvo si mismo)
 	- Devolver solo Nombre, Apellido de la persona 1 y apellido de la persona 2
