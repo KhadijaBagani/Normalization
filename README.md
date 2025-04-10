@@ -1,1 +1,5 @@
-Aquí teneis todos los ejercicios de normalización y los archivos auxiliares necesarios para realizarlos
+# Índice
+Aquí teneis todos los ejercicios. Recordad consultar la [Teoría](./Teoría/README.MD)
+
+- [Normalización](Normalización/Ejercicios%201.md)
+- [Optimización de Queries](Normalización/Ejercicios%201.md)
