@@ -8,3 +8,4 @@
 
 1. [Normalización](Normalización.pptx)
 2. [Queries](Queries.pptx)
+3. [Extra: SQL Avanzado](Extra.pptx)
