@@ -25,5 +25,5 @@ Queremos crear un sistema de likes para vídeos que funcione como el sistema pri
 
 <br>
 
-> [!note] Fun Fact
+> [!note]
 > [Este era el aspecto de youtube en 2006, por si teneis curiosidad](https://www.webdesignmuseum.org/gallery/youtube-2006)
