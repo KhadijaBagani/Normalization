@@ -18,3 +18,12 @@ Queremos crear un sistema de likes para vídeos que funcione como el sistema pri
 3. Modifica el SP para que también sirva para modificar reviews existentes
     - Recuerda modificar también la media según corresponda.
     - Si hay algo que no sabes hacer, pregunta o índicalo en la entrega.
+
+<br>
+
+---
+
+<br>
+
+> [!note] Fun Fact
+> [Este era el aspecto de youtube en 2006, por si teneis curiosidad](https://www.webdesignmuseum.org/gallery/youtube-2006)
