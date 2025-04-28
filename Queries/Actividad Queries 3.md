@@ -11,4 +11,7 @@ Queremos crear un sistema de likes para vídeos que funcione como el sistema pri
     - También ha de actualizar la media del vídeo
     - Ha de recibir como parámetros el nombre del usuario y la nota que le ha puesto al vídeo
     - El SP ha de preservar la integridad de la base de datos y ser capaz de gestionar inputs erróneos
-  
+
+3. Modifica el SP para que también sirva para modificar reviews existentes
+    - Recuerda modificar también la media según corresponda.
+    - Si hay algo que no sabes hacer, pregunta o índicalo en la entrega.
