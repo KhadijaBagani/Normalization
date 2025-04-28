@@ -3,4 +3,5 @@
 1. [Actividad 1](./Actividad%20Queries%201.md)
 2. [Actividad 2](./Actividad%20Queries%202.md)
 3. [Evaluable 1](./Evaluable%201.md)
-4. *(Coming soon)*
+4. [Actividad 3](./Actividad%20Queries%203.md)
+5. *(Coming soon)*
