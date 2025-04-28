@@ -6,3 +6,9 @@ Queremos crear un sistema de likes para vídeos que funcione como el sistema pri
 1. Crea las tablas que necesitaremos para este sistema.
     - Pon mucha atención en los tipos de los datos ya que debemos maximizar su eficiencia
     - Vigila: Las reviews de los usuarios pueden variar en unidades de media estrella, pero para la media queremos al menos dos decimales de precisión.
+
+2. Crea un SP que gestione el añadir "reviews" a un vídeo.
+    - También ha de actualizar la media del vídeo
+    - Ha de recibir como parámetros el nombre del usuario y la nota que le ha puesto al vídeo
+    - El SP ha de preservar la integridad de la base de datos y ser capaz de gestionar inputs erróneos
+  
