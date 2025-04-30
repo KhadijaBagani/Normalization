@@ -19,6 +19,9 @@ Queremos crear un sistema de likes para vídeos que funcione como el sistema pri
     - Recuerda modificar también la media según corresponda.
     - Si hay algo que no sabes hacer, pregunta o índicalo en la entrega.
 
+4. Crea una view que nos muestre los vídeos con el valor de rating que verán los usuarios.
+    - Es decir, con la media calculada  
+
 <br>
 
 ---
